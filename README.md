@@ -19,7 +19,7 @@
                 src="https://camo.githubusercontent.com/f26259c84427fb548d206218a949f99c9740ea699d54f58c8adf14b940144b1f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d617263757376696e69636975733231266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d64726163756c61"
                 data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayrcristina&amp;layout=compact&amp;langs_count=7&amp;theme=dracula"
                 style="max-width:100%;">
-        </a></div><a href="https://github.com/marcusvinicius21">
+        </a></div><a href="https://github.com/thayrcristina">
         <div><br>
             <img align="center" alt="Rafa-Js" height="70" width="80"
                 src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-plain-wordmark.svg"
