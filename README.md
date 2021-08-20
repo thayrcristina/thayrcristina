@@ -43,10 +43,11 @@
                 data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
                 style="max-width:100%;"></a>
         <a href="mailto:thayrcristina@gmail.com"><img
-                src="https://camo.githubusercontent.com/be08f7a1c998ec3e477fd0d3cc0e7fa39255cce4e77daf537e80c0f33e4d87d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f75746c6f6f6b2d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f75746c6f6f6b266c6f676f436f6c6f723d7768697465"
-                data-canonical-src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white"
+                src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"
+                data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
                 style="max-width:100%;"></a>
-        <a href="https://www.twitch.tv/minadediadema" rel="nofollow" target="_blank"><img
+        <a href="https://www.twitch.tv/minadediadema" rel="nofollow"
+            target="_blank"><img
                 src="https://camo.githubusercontent.com/ec779aec0f1b6eaa5d10682a8fb54c96525e9074461254165f4e7d4295f7d4d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5477697463682d3931343646463f7374796c653d666f722d7468652d6261646765266c6f676f3d747769746368266c6f676f436f6c6f723d7768697465"
                 data-canonical-src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&amp;logo=twitch&amp;logoColor=white"
                 style="max-width:100%;"></a>
