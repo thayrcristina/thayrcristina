@@ -12,12 +12,9 @@
     <div>
         <a href="https://github.com/thayrcristina">
             <img height="150em"
-                src="https://camo.githubusercontent.com/97924b9fe4ffdda5e11eea5ab897f18f231cae04d2e59b36f5ca6d953a1eefb1/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d617263757376696e696369757332312673686f775f69636f6e733d74727565267468656d653d64726163756c6126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565"
-                data-canonical-src="https://github-readme-stats.vercel.app/api?username=thayrcristina&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"
-                style="max-width:100%;">
+                src="https://github-readme-stats.vercel.app/api?username=thayrcristina&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"               style="max-width:100%;">
             <img height="150em"
-                src="https://camo.githubusercontent.com/f26259c84427fb548d206218a949f99c9740ea699d54f58c8adf14b940144b1f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d617263757376696e69636975733231266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d64726163756c61"
-                data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayrcristina&amp;layout=compact&amp;langs_count=7&amp;theme=dracula"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayrcristina&amp;layout=compact&amp;langs_count=7&amp;theme=dracula"
                 style="max-width:100%;">
         </a></div><a href="https://github.com/thayrcristina">
         <div><br>
@@ -34,11 +31,23 @@
             <img align="center" alt="Rafa-HTML" height="70" width="80"
                 src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-plain.svg"
                 style="max-width:100%;">
+            <img align="center" alt="Rafa-HTML" height="70" width="80"
+                src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+                style="max-width:100%;">
+            <img align="center" alt="Rafa-HTML" height="70" width="80"
+                src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+                style="max-width:100%;">
+            <img align="center" alt="Rafa-HTML" height="70" width="80"
+                src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"
+                style="max-width:100%;">
+            <img align="center" alt="Rafa-HTML" height="70" width="80"
+                src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"
+                style="max-width:100%;">
+
         </div>
         <h2></h2>
     </a><div><a href="https://github.com/thayrcristina">
-        </a><a href="https://www.linkedin.com/in/thayrcristina/" rel="nofollow"
-            ><img
+        </a><a href="https://www.linkedin.com/in/thayrcristina/" rel="nofollow"><img
                 src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"
                 data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"
                 style="max-width:100%;" target="_blank"></a>
@@ -46,8 +55,7 @@
                 src="https://camo.githubusercontent.com/927d6b3961fa048ff7303daf291cb5869dfa25018997cf8c1373c2f6a85b1458/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"
                 data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"
                 style="max-width:100%;"></a>
-        <a href="https://www.twitch.tv/minadediadema" rel="nofollow"
-            ><img
+        <a href="https://www.twitch.tv/minadediadema" rel="nofollow"><img
                 src="https://camo.githubusercontent.com/ec779aec0f1b6eaa5d10682a8fb54c96525e9074461254165f4e7d4295f7d4d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5477697463682d3931343646463f7374796c653d666f722d7468652d6261646765266c6f676f3d747769746368266c6f676f436f6c6f723d7768697465"
                 data-canonical-src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&amp;logo=twitch&amp;logoColor=white"
                 style="max-width:100%;" target="_blank"></a>
