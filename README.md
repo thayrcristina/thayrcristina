@@ -7,7 +7,7 @@
         </li>
         <li>
             <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji>
-            Experiência profissional em Analise de desenvolvimento e testes e
+            Experiência profissional em Analise de desenvolvimento/testes e
             FrontEnd;
         </li>
     </ul>
