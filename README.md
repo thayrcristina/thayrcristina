@@ -24,16 +24,16 @@
             <img
                 align="center"
                 alt="Rafa-Js"
-                height="30"
-                width="40"
+                height="50"
+                width="60"
                 src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-plain-wordmark.svg"
                 style="max-width:100%;"
             >
             <img
                 align="center"
                 alt="Rafa-Ts"
-                height="30"
-                width="40"
+                height="50"
+                width="60"
                 src="https://camo.githubusercontent.com/ab5ca2fa06f2e841f705aba4f047976a6bf71a5ffc83e8c957eb62fb885517ef/68747470733a2f2f6c68332e676f6f676c6575736572636f6e74656e742e636f6d2f70726f78792f5a6d733247513669304e6648507158415a456f714178654d524c4f3167426955754546342d6c6438504d506b5a55525430496833437367345a7358347964317733546333476b48783734685451594b38676f32595f707a3667553341344a39657032436a2d515a32786b51"
                 data-canonical-src="https://lh3.googleusercontent.com/proxy/Zms2GQ6i0NfHPqXAZEoqAxeMRLO1gBiUuEF4-ld8PMPkZURT0Ih3Csg4ZsX4yd1w3Tc3GkHx74hTQYK8go2Y_pz6gU3A4J9ep2Cj-QZ2xkQ"
                 style="max-width:100%;"
@@ -41,32 +41,32 @@
             <img
                 align="center"
                 alt="Rafa-React"
-                height="30"
-                width="40"
+                height="50"
+                width="60"
                 src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain-wordmark.svg"
                 style="max-width:100%;"
             >
             <img
                 align="center"
                 alt="Rafa-HTML"
-                height="30"
-                width="40"
+                height="50"
+                width="60"
                 src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-plain.svg"
                 style="max-width:100%;"
             >
             <img
                 align="center"
                 alt="Rafa-Spring"
-                height="30"
-                width="40"
+                height="50"
+                width="60"
                 src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/spring/spring-original-wordmark.svg"
                 style="max-width:100%;"
             >
             <img
                 align="center"
                 alt="Rafa-React"
-                height="30"
-                width="40"
+                height="50"
+                width="60"
                 src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/react/react-original-wordmark.svg"
                 style="max-width:100%;"
             >
