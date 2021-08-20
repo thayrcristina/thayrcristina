@@ -18,7 +18,7 @@
             <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thayrcristina&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width:100%;">
         </a>
     </div>
-    <a href="https://github.com/marcusvinicius21">
+    <a href="https://github.com/thayrcristina">
         <div>
             <br>
             <img
