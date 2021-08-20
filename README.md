@@ -2,10 +2,10 @@
     <ul>
         <li><g-emoji class="g-emoji" alias="telescope"
                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji>
-            Desenvolvedor Java Jr;</li>
+            Desenvolvedora Java Jr;</li>
         <li><g-emoji class="g-emoji" alias="seedling"
                 fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji>
-            Experiência profissional em Analista de desenvolvimento e testes e
+            Experiência profissional em Analise de desenvolvimento e testes e
             FrontEnd;</li>
     </ul>
     <h2></h2>
