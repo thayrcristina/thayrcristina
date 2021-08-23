@@ -28,8 +28,7 @@
                 width="60"
                 src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-plain-wordmark.svg"
                 style="max-width:100%;"
-            >
-      
+            >      
             <img
                 align="center"
                 alt="Rafa-React"
