@@ -23,7 +23,7 @@
             <br>
             <img
                 align="center"
-                alt="Rafa-Js"
+                alt="Thayna-Js"
                 height="50"
                 width="60"
                 src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/java/java-plain-wordmark.svg"
@@ -31,7 +31,7 @@
             >      
             <img
                 align="center"
-                alt="Rafa-React"
+                alt="Thayna-React"
                 height="50"
                 width="60"
                 src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/mysql/mysql-plain-wordmark.svg"
@@ -39,7 +39,7 @@
             >
             <img
                 align="center"
-                alt="Rafa-HTML"
+                alt="Thayna-HTML"
                 height="50"
                 width="60"
                 src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-plain.svg"
@@ -47,7 +47,7 @@
             >
             <img
                 align="center"
-                alt="Rafa-Spring"
+                alt="Thayna-Spring"
                 height="50"
                 width="60"
                 src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/spring/spring-original-wordmark.svg"
@@ -55,7 +55,7 @@
             >
             <img
                 align="center"
-                alt="Rafa-React"
+                alt="Thayna-React"
                 height="50"
                 width="60"
                 src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/react/react-original-wordmark.svg"
